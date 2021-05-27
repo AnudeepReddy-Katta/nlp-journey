@@ -1,4 +1,4 @@
-## Welcome to NLP Journey 
+## Welcome to Anudeep's NLP Journey 
 
 Watch out this space for neural network based NLP journey in Pytorch
 
