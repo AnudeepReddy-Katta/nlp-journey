@@ -31,7 +31,7 @@ LSTM model has following layers -
 
 And hyperparameters as : embedding_dim = 300, num_hidden_nodes = 100, num_output_nodes = 5, num_layers = 2, dropout = 0.2.
 
-We could achieve training accuracy of 100 % but validation accuracy was not performing well (May be due to simple model & complex data). So, we decided to use 5 epochs where the training accuracy is around 78 % and validation accuracy is around 35 %. I will be working on it to imrpve further.
+We could achieve training accuracy of 100 % but validation accuracy was not performing well (May be due to simple model & complex data). So, we decided to use 5 epochs where the training accuracy is around 78 % and validation accuracy is around 35 %.
 
 ## Testing our model on 10 custom inputs
 
@@ -48,5 +48,4 @@ We could achieve training accuracy of 100 % but validation accuracy was not perf
 | Too much of the humor falls flat . | very negative |
 | "No way I can believe this load of junk . |  negative |
 
-Although our model didn't do well on validation data, It gave decent results on our custom inputs. Watch out this space for further work.
-
+Although our model didn't do well on validation data, It gave decent results on our custom inputs. 
