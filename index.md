@@ -11,5 +11,8 @@ Watch out this space for neural network based NLP journey in Pytorch
 ## 3. [LSTM](https://github.com/AnudeepReddy-Katta/nlp-journey/blob/main/LSTM/LSTM.ipynb)
 - Let's tryout our hands on LSTM which is also a reccurent network with memory retention span greater than that of RNNs. Like RNNs these networks don't suffer from vanishing gradient problem.
 
+## 4. [Data Augmentation and LSTM](https://github.com/AnudeepReddy-Katta/SentimentAnalysis)
+- 
+
 ### Contact
 Connect with the author via LinkedIn [here](https://www.linkedin.com/in/anudeep-reddy-katta-4a75a6195/)
